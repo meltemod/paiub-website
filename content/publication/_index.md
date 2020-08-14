@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Upcoming Events
 
 # View.
 #   1 = List
