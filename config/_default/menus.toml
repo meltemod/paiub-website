@@ -14,13 +14,8 @@
   weight = 20
 
 [[main]]
-  name = "Publications"
-  url = "publication_webpage/"
-  weight = 40
-
-[[main]]
-  name = "Projects"
-  url = "project_webpage/"
+  name = "Events"
+  url = "post_webpage/"
   weight = 30
 
 [[main]]
