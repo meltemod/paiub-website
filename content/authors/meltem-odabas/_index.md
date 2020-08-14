@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Meltem Odabaş
 
 # Username (this should match the folder name)
 authors:
-- admin
+- meltem-odabas
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Social Events Coordinator
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Indiana University Bloomington
+  url: "www.meltemodabas.net"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include health behaviors, social interaction in online platforms and public opinion formation.
 
 # interests:
 # - Artificial Intelligence
@@ -43,19 +43,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/gcushen
+social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:modabas@iu.edu".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/meltemodabas
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=NxQQgrwAAAAJ&hl=en&oi=ao
+- icon: github
+  icon_pack: fab
+  link: https://github.com/meltemod
   
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -74,6 +74,4 @@ email: ""
 # - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Meltem Odabaş is a postdoctoral research fellow inthe Department of sociology at Indiana University Bloomington. Her research focuses on studying behavior from a social network perspective, with particular areas of interest in health behaviors and social interaction in online platforms.
