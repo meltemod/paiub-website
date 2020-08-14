@@ -69,9 +69,8 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
-# - Visitors
+user_groups:
+- Board Members
 ---
 
 Meltem Odabaş is a postdoctoral research fellow inthe Department of sociology at Indiana University Bloomington. Her research focuses on studying behavior from a social network perspective, with particular areas of interest in health behaviors and social interaction in online platforms.
