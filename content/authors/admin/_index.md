@@ -1,6 +1,6 @@
 ---
 # Display name
-title: PAIUB
+title: Postdoctoral Association at Indiana University Bloomington
 
 # Username (this should match the folder name)
 authors:
