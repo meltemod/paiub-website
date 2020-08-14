@@ -17,7 +17,6 @@ organizations:
 - name: Postdoctoral Researcher
 - name: Department of sociology
 - name: Indiana University Bloomington
-  url: "www.meltemodabas.net"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include health behaviors, social interaction in online platforms and public opinion formation.
@@ -76,3 +75,5 @@ user_groups:
 ---
 
 Meltem Odabaş is a postdoctoral research fellow inthe Department of sociology at Indiana University Bloomington. Her research focuses on studying behavior from a social network perspective, with particular areas of interest in health behaviors and social interaction in online platforms.
+
+[Personal Website](www.meltemodabas.net)
