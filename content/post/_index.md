@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Upcoming Events
 
 # View.
 #   1 = List
