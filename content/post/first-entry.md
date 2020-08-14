@@ -1,4 +1,4 @@
----
++++
 title: 'This is a test'
 subtitle: 'We can publish events like this'
 summary: Coffee breaks every 1st Wednesday of the month!
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
----
++++
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
 
