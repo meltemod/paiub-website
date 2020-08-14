@@ -14,9 +14,7 @@ role: Social Events Coordinator
 
 # Organizations/Affiliations
 organizations:
-- name: Postdoctoral Researcher
-- name: Department of sociology
-- name: Indiana University Bloomington
+- name: Postdoctoral Association at Indiana University Bloomington
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include health behaviors, social interaction in online platforms and public opinion formation.
