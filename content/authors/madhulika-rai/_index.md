@@ -43,19 +43,19 @@ bio: My research interests include health behaviors, social interaction in onlin
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 
-social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:modabas@iu.edu"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/meltemodabas
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=NxQQgrwAAAAJ&hl=en&oi=ao
-- icon: github
-  icon_pack: fab
-  link: https://github.com/meltemod
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: "mailto:modabas@iu.edu"  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/meltemodabas
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=NxQQgrwAAAAJ&hl=en&oi=ao
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/meltemod
   
   
 # Link to a PDF of your resume/CV from the About widget.
