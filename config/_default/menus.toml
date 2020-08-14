@@ -15,12 +15,12 @@
 
 [[main]]
   name = "Publications"
-  url = "publication_website/"
+  url = "publication_webpage/"
   weight = 40
 
 [[main]]
   name = "Projects"
-  url = "project_website/"
+  url = "project_webpage/"
   weight = 30
 
 [[main]]
