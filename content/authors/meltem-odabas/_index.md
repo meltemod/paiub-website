@@ -46,7 +46,7 @@ bio: My research interests include health behaviors, social interaction in onlin
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:modabas@iu.edu".
+  link: "mailto:modabas@iu.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/meltemodabas
