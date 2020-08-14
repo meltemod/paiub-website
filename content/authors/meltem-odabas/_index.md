@@ -76,4 +76,4 @@ user_groups:
 
 Meltem Odabaş is a postdoctoral research fellow inthe Department of sociology at Indiana University Bloomington. Her research focuses on studying behavior from a social network perspective, with particular areas of interest in health behaviors and social interaction in online platforms.
 
-[Personal Website](www.meltemodabas.net)
+[Personal Website](https://www.meltemodabas.net/)
