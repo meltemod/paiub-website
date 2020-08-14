@@ -14,6 +14,8 @@ role: Social Events Coordinator
 
 # Organizations/Affiliations
 organizations:
+- name: Postdoctoral Researcher
+- name: Department of sociology
 - name: Indiana University Bloomington
   url: "www.meltemodabas.net"
 
