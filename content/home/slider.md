@@ -50,11 +50,11 @@ height = "300px"
 
 [[item]]
   title = "Meet your fellow postdocs!"
-  content = "We host virtual recurring coffee break :coffee: and happy hour :beer: events"
+  content = "We host virtual recurring social events. :coffee: Coffee break on the first Wednesday on each month; and happy hour :beer: on the third Thursday on each month."
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/media/` folder.
+  overlay_img = "slider_social.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   cta_label = "Check our calendar"
