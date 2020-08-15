@@ -17,7 +17,7 @@ height = "300px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Welcome to IU!"
-  content = "Join our postdoc orientation event"
+  content = "Join our virtual postdoc orientation event on 23 September"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -35,20 +35,32 @@ height = "300px"
   cta_icon = "users-class"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
+  title = "Looking for an accountability group?"
+  content = "Check out our weekly virtual working group sessions :woman_technologist:"
+  align = "center"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Read more"
+  cta_url = "post/happy-hour/"
+  #cta_icon_pack = "fas"
+  #cta_icon = "users-class"
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
+  title = "Meet your fellow postdocs!"
+  content = "We host virtual recurring coffee break :coffee: and happy hour :beer: events"
+  align = "center"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Check our calendar"
+  cta_url = "calendar/"
+  #cta_icon_pack = "fas"
+  #cta_icon = "users-class"
+  
+
 +++
