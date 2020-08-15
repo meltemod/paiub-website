@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Events"
-  url = "event-webpage/"
+  url = "post-webpage/"
   weight = 20
 
 [[main]]
