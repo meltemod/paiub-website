@@ -10,13 +10,8 @@
 
 [[main]]
   name = "Events"
-  url = "event_webpage/"
+  url = "event-webpage/"
   weight = 20
-
-[[main]]
-  name = "Events"
-  url = "post_webpage/"
-  weight = 30
 
 [[main]]
   name = "Calendar"
