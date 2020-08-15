@@ -7,6 +7,8 @@ title: Upcoming Events
 #   3 = Card
 view: 2
 
+author = false
+
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
