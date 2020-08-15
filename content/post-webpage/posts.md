@@ -10,7 +10,7 @@ weight = 60  # Order that this section will appear.
 title = "Upcoming Events"
 subtitle = ""
 
-author = ""
+author = false
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
