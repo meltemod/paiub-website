@@ -17,7 +17,7 @@ height = "300px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Welcome to IU!"
-  content = "Join our virtual postdoc orientation event on 23 September"
+  content = "Join our virtual postdoc orientation event on September 23rd."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -36,14 +36,14 @@ height = "300px"
 
 [[item]]
   title = "Looking for an accountability group?"
-  content = "Check out our weekly virtual working group sessions :woman_technologist:"
+  content = ""
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "slider_work.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-  cta_label = "Read more"
+  cta_label = "Check our weekly virtual working group sessions :woman_technologist:"
   cta_url = "post/happy-hour/"
   #cta_icon_pack = "fas"
   #cta_icon = "users-class"
