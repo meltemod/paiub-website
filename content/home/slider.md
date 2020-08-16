@@ -50,7 +50,7 @@ height = "300px"
 
 [[item]]
   title = "Meet your fellow postdocs!"
-  content = "We host virtual recurring social events. :coffee: :beer: :tea: :wine:"
+  content = "We host virtual recurring social events. :coffee: :beer: :tea: :wine_glass:"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
