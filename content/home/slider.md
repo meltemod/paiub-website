@@ -24,7 +24,7 @@ height = "300px"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "slider_crimson_shine.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -50,7 +50,7 @@ height = "300px"
 
 [[item]]
   title = "Meet your fellow postdocs!"
-  content = "We host virtual recurring social events. :coffee: Coffee break on the first Wednesday on each month; and happy hour :beer: on the third Thursday on each month."
+  content = "We host virtual recurring social events. :coffee: :beer: :tea: :wine:"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
