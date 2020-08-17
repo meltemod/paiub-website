@@ -1,5 +1,5 @@
 ---
-title: Committees
+title: Posts
 
 # View.
 #   1 = List
