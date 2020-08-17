@@ -9,9 +9,14 @@
   weight = 10
 
 [[main]]
-  name = "Events"
-  url = "post-webpage/"
+  name = "Committees"
+  url = "committees-webpage/"
   weight = 20
+
+[[main]]
+  name = "Events"
+  url = "event-webpage/"
+  weight = 30
 
 [[main]]
   name = "Calendar"

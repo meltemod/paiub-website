@@ -72,7 +72,7 @@ height = "300px"
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
   
   cta_label = "Explore our committees"
-  cta_url = "committees/"
+  cta_url = "committees-webpage/"
   #cta_icon_pack = "fas"
   #cta_icon = "users-class"
   

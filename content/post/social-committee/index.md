@@ -6,17 +6,17 @@ image:
   focal_point: Smart
 links:
 slides: 
-summary: Virtual Happy Hour! Third Thursday of each month.
+summary: Social Committee here.
 tags:
-- event
-title: Happy hour
+- committee
+title: Social Committee
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 
 ---
-Virtual Happy Hour!
+This is a committee
 
 
 
