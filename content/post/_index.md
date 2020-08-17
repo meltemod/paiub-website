@@ -1,5 +1,5 @@
 ---
-title: Upcoming Events
+title: Committees
 
 # View.
 #   1 = List
