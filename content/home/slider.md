@@ -62,5 +62,19 @@ height = "300px"
   #cta_icon_pack = "fas"
   #cta_icon = "users-class"
   
+[[item]]
+  title = "Get involved"
+  content = "Explore our committees"
+  align = "center"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "slider_committees.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Check our calendar"
+  cta_url = "committees/"
+  #cta_icon_pack = "fas"
+  #cta_icon = "users-class"
+  
 
 +++
