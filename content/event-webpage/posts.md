@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Upcoming Events"
+title = ""
 subtitle = ""
 
 
@@ -68,4 +68,6 @@ subtitle = ""
  css_class = ""
 +++
 
+
+# Upcoming Events
 Description test here.
