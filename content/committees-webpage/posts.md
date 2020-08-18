@@ -67,3 +67,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Some information about how to get involved.
