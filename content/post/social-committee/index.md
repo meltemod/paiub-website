@@ -16,7 +16,7 @@ url_slides: ""
 url_video: ""
 
 ---
-This is a committee
+The role of the Social Events Committee is tocreate opportunities for postdocs to socialize, network, and form friendships and collaborations across disciplines.
 
 
 
