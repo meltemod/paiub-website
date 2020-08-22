@@ -47,15 +47,17 @@ superuser: false
 # - icon: envelope
 #   icon_pack: fas
 #   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/iubpostdocs/
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/iubpostdocs/
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/groups/iubpostdocs/
+social:
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/iubpostdocs/
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/iubpostdocs/
+  - icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/groups/iubpostdocs/
+
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
