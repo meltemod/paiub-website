@@ -30,7 +30,7 @@ height = "300px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Register here"
-  cta_url = "post/happy-hour/"
+  cta_url = "https://iu.co1.qualtrics.com/jfe/form/SV_efKiH4jy7cKtMgt"
   cta_icon_pack = "fas"
   cta_icon = "users-class"
 
