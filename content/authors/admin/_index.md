@@ -86,8 +86,8 @@ Postdoctoral Association at Indiana University Bloomington is comprised of and l
 
 We aspire to encourage and support postdoctoral researchers interested in building a research community, learning and sharing their experience by hosting a variety of events including talks, workshops, and socials.
 
-Join the PAIUB Slack team! Email <> to request an invitation. 
+Join the PAIUB Slack team! Email <paiub@iu.edu> to request an invitation. 
 
 Follow us on social media! [Twitter](https://twitter.com/iubpostdocs/) [Facebook](https://www.facebook.com/groups/iubpostdocs/) [Instagram](https://www.instagram.com/iubpostdocs/)
 
-PAIUB follows the PAIUB code of conduct <link here>.
+PAIUB follows the [PAIUB code of conduct](static/files/PAIUB_code_of_conduct.pdf).
