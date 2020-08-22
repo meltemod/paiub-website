@@ -49,7 +49,7 @@ superuser: false
 #   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/paiub
+  link: https://twitter.com/iubpostdocs/
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/iubpostdocs/
@@ -86,6 +86,6 @@ We aspire to encourage and support postdoctoral researchers interested in buildi
 
 Join the PAIUB Slack team! Email <> to request an invitation. 
 
-Follow us on social media! Twitter Facebook Instagram
+Follow us on social media! [Twitter](https://twitter.com/iubpostdocs/) [Facebook](https://www.facebook.com/groups/iubpostdocs/) [Instagram](https://www.instagram.com/iubpostdocs/)
 
 PAIUB follows the PAIUB code of conduct <link here>.
