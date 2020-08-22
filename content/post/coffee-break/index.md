@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 links:
 slides: 
-summary: Weekly work group
+summary: Coffee Breaks are hosted on the first Wednesday of each month.
 tags:
 - Events
 title: Weekly Working Groups
@@ -16,7 +16,7 @@ url_slides: ""
 url_video: ""
 
 ---
-Weekly work group add more info here.
+Coffee break info details.
 
 
 
