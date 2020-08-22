@@ -8,7 +8,7 @@ links:
 slides: 
 summary: Virtual Happy Hour! Third Thursday of each month.
 tags:
-- event
+- Events
 title: Happy hour
 url_code: ""
 url_pdf: ""

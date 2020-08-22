@@ -6,17 +6,17 @@ image:
   focal_point: Smart
 links:
 slides: 
-summary: Virtual Happy Hour! Third Thursday of each month.
+summary: Working Groups are hosted weekly on Mondays. 
 tags:
-- event
-title: Happy hour
+- Events
+title: Working Groups
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 
 ---
-Virtual Happy Hour!
+Working group details.
 
 
 

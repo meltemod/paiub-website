@@ -8,7 +8,7 @@ links:
 slides: 
 summary: Weekly work group
 tags:
-- event
+- Events
 title: Weekly Working Groups
 url_code: ""
 url_pdf: ""

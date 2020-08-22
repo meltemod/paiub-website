@@ -44,7 +44,7 @@ height = "300px"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   cta_label = "Check our weekly virtual working group sessions :woman_technologist:"
-  cta_url = "post/happy-hour/"
+  cta_url = "post/work-group/"
   #cta_icon_pack = "fas"
   #cta_icon = "users-class"
 
