@@ -17,8 +17,7 @@ height = "300px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Welcome to IU!"
-  content = "Join our virtual welcoming event on \n
-  Wednesday, September 23, 1-2:30pm ET"
+  content = "Join our virtual welcoming event on                 Wednesday, September 23, 1-2:30pm ET"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
