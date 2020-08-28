@@ -10,8 +10,9 @@ weight = 66  # Order that this section will appear.
 +++
 
 
-{{< figure align="left" width="100" height="100" src="./member-images/jason-coral.jpg" title="XYZ coordinator" >}}
+{{< figure align="left" width="100" height="100" src="jason-coral.jpg" title="XYZ coordinator" >}}
 
+{{< figure library="true" src="image.jpg" title="A caption" >}}
 
 ## Heading 2 Example
 
