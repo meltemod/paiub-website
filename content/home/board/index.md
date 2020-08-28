@@ -5,18 +5,59 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 66  # Order that this section will appear.
 
-# title = "Board"
+title = "Board Members"
 # subtitle = ""
 +++
 
+# Meet Our Team
 
-{{< figure align="left" width="100" height="100" src="/home/board/member-images/jason-coral.jpg" title="XYZ coordinator" >}}
+## Board Members
 
-{{< figure library="true" src="/static/media/slider_social.jpg" title="A caption" >}}
+### Lydia Hoffstaetter
 
-![alternative text for search engines](/static/media/jason-coral.jpg)
+{{< figure align="left" width="250" height="250" src="/home/board/member-images/lydia-hoffstaetter.jpg" title="XYZ coordinator" >}}
 
-## Heading 2 Example
+Info About Lydia
+
+### Jason Coral
+{{< figure align="left" width="250" height="250" src="/home/board/member-images/jason-coral.jpg" title="XYZ coordinator" >}}
+
+Info About Jason
+
+### Jessica Cusick
+{{< figure align="left" width="250" height="250" src="/home/board/member-images/jessica-cusick.jpg" title="XYZ coordinator" >}}
+
+Info About Jess
+
+### Ramya Enganti
+{{< figure align="left" width="250" height="250" src="/home/board/member-images/ramya-enganti.jpg" title="XYZ coordinator" >}}
+
+Info About Ramya
+
+### Meltem Odabaş
+{{< figure align="left" width="250" height="250" src="/home/board/member-images/meltem-odabas.jpg" title="XYZ coordinator" >}}
+
+Info About Meltem
+
+### Madhulika Rai
+{{< figure align="left" width="250" height="250" src="/home/board/member-images/madhulika-rai.jpg" title="XYZ coordinator" >}}
+
+Info About Madhulika
+
+### Stephanie Reeves
+{{< figure align="left" width="250" height="250" src="/home/board/member-images/stephanie-reeves.jpg" title="XYZ coordinator" >}}
+
+Info About Stephanie
+
+## Should we list Katie in Board Members or in a separate category as in here?
+
+### Katie Kearns
+{{< figure align="left" width="250" height="250" src="/home/board/member-images/katie-kearns.jpg" title="XYZ coordinator" >}}
+
+Info About Stephanie
+
+
+
 
 Italics with _underscores_.
 
