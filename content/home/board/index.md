@@ -20,7 +20,7 @@ title = "Board Members"
 Info About Lydia
 
 ### Jason Coral
-{{<  figure align="left" width="250" height="250" src="/home/board/member-images/jason-coral.jpg#floatleft" title="XYZ coordinator" >}}
+{{< % figure align="left" width="250" height="250" src="/home/board/member-images/jason-coral.jpg#floatleft" title="XYZ coordinator" %>}}
 
 Info About Jason
 
