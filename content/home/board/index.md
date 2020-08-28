@@ -14,6 +14,8 @@ weight = 66  # Order that this section will appear.
 
 {{< figure library="true" src="slider_social.jpg" title="A caption" >}}
 
+![alternative text for search engines](jason-coral.jpg)
+
 ## Heading 2 Example
 
 Italics with _underscores_.
