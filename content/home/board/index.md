@@ -5,11 +5,15 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 66  # Order that this section will appear.
 
-title = "Board"
-subtitle = ""
+# title = "Board"
+# subtitle = ""
 +++
 
-##Heading 2 Example
+
+{{< figure src="mamber-images/jason-coral.jpg" title="XYZ coordinator" >}}
+
+
+## Heading 2 Example
 
 Italics with _underscores_.
 
