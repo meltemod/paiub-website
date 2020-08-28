@@ -9,4 +9,19 @@ title = "Board"
 subtitle = ""
 +++
 
-#Test this
+##Heading 2 Example
+
+Italics with _underscores_.
+
+Bold with **asterisks**.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough with ~~two tildes~~.
+
+1. First item
+2. Another item
+
+- [x] Write math example
+- [x] Write diagram example
+- [ ] Do something else
