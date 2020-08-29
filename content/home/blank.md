@@ -102,19 +102,3 @@ Info About Katie \
   \
   \
   \
-  
-
-Italics with _underscores_.
-
-Bold with **asterisks**.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough with ~~two tildes~~.
-
-1. First item
-2. Another item
-
-- [x] Write math example
-- [x] Write diagram example
-- [ ] Do something else
