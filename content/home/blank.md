@@ -24,7 +24,7 @@ Info About Lydia \
   \
   \  
 ### Jason Coral
-{{<  figure align="left" width="200" height="200" src="/home/board/member-images/jason-coral.jpg# floatleftCircle radius"  >}}
+{{<  figure align="left" width="200" height="200" src="/home/board/member-images/jason-coral.jpg# floatleftCircle"  >}}
 
 Info About Jason \
   \
