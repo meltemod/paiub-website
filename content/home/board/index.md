@@ -15,49 +15,49 @@ title = "Board Members"
 
 ### Lydia Hoffstaetter
 
-{{< figure align="left" width="250" height="250" src="/home/board/member-images/lydia-hoffstaetter.jpg#floatleft" title="XYZ coordinator" >}}
+{{< figure align="left" width="250" height="250" src="/home/board/member-images/lydia-hoffstaetter.jpg#floatleft"  >}}
 
-Info About Lydia \s\s
- \s\s
- \s\s
- \s\s
+Info About Lydia \
+  \
+  \
+  \
 
 ### Jason Coral
-{{<  figure align="left" width="250" height="250" src="/home/board/member-images/jason-coral.jpg#floatleft" title="XYZ coordinator" >}}
+{{<  figure align="left" width="250" height="250" src="/home/board/member-images/jason-coral.jpg#floatleft"  >}}
 
-Info About Jason
+Info About Jason 
 
 ### Jessica Cusick
-{{< figure align="left" width="250" height="250" src="/home/board/member-images/jessica-cusick.jpg#floatleft" title="XYZ coordinator" >}}
+{{< figure align="left" width="250" height="250" src="/home/board/member-images/jessica-cusick.jpg#floatleft" >}}
 
-Info About Jess
+Info About Jess 
 
 ### Ramya Enganti
-{{< figure align="left" width="250" height="250" src="/home/board/member-images/ramya-enganti.jpg" title="XYZ coordinator" >}}
+{{< figure align="left" width="250" height="250" src="/home/board/member-images/ramya-enganti.jpg"  >}}
 
-Info About Ramya
+Info About Ramya 
 
 ### Meltem Odabaş
-{{< figure align="left" width="250" height="250" src="/home/board/member-images/meltem-odabas.jpg#floatleft" title="XYZ coordinator" >}}
+{{< figure align="left" width="250" height="250" src="/home/board/member-images/meltem-odabas.jpg#floatleft"  >}}
 
 Info About Meltem
 
 ### Madhulika Rai
-{{< figure align="left" width="250" height="250" src="/home/board/member-images/madhulika-rai.jpg#floatleft" title="XYZ coordinator" >}}
+{{< figure align="left" width="250" height="250" src="/home/board/member-images/madhulika-rai.jpg#floatleft" >}}
 
-Info About Madhulika
+Info About Madhulika 
 
 ### Stephanie Reeves
-{{< figure align="left" width="250" height="250" src="/home/board/member-images/stephanie-reeves.jpg#floatleft" title="XYZ coordinator" >}}
+{{< figure align="left" width="250" height="250" src="/home/board/member-images/stephanie-reeves.jpg#floatleft" >}}
 
-Info About Stephanie
+Info About Stephanie 
 
 ## Should we list Katie in Board Members or in a separate category as in here?
 
 ### Katie Kearns
-{{< figure align="left" width="250" height="250" src="/home/board/member-images/katie-kearns.jpg#floatleft" title="XYZ coordinator" >}}
+{{< figure align="left" width="250" height="250" src="/home/board/member-images/katie-kearns.jpg#floatleft" >}}
 
-Info About Stephanie
+Info About Katie 
 
 
 
