@@ -7,20 +7,64 @@ img[src$='#center']
     /* whatever else styles you fancy here */
 }
 
-img[src~='#floatleft']
+img[src$='#floatleftCircle']
+{
+  float:left;
+  margin: 0.7rem;      /* this margin is totally up to you */
+    /* whatever else styles you fancy here */
+  border-radius: 100%;
+}
+
+img[src$='#floatrightCircle']
+{
+  float:right;
+  margin: 0.7rem;      /* this margin is totally up to you */
+    /* whatever else styles you fancy here */
+  border-radius: 100%;
+}
+
+img[src$='#floatleft']
 {
   float:left;
   margin: 0.7rem;      /* this margin is totally up to you */
     /* whatever else styles you fancy here */
 }
 
-img[src~='#floatright']
+img[src$='#floatright']
 {
   float:right;
   margin: 0.7rem;      /* this margin is totally up to you */
     /* whatever else styles you fancy here */
 }
 
-img[src~="radius"] {
+img[src$='#leftCircle']
+{
+  fig.align:left;
+  margin: 0.7rem;      /* this margin is totally up to you */
+    /* whatever else styles you fancy here */
   border-radius: 100%;
 }
+
+img[src$='#rightCircle']
+{
+  fig.align:right;
+  margin: 0.7rem;      /* this margin is totally up to you */
+    /* whatever else styles you fancy here */
+  border-radius: 100%;
+}
+
+img[src$='#left']
+{
+  fig.align:left;
+  margin: 0.7rem;      /* this margin is totally up to you */
+    /* whatever else styles you fancy here */
+}
+
+img[src$='#right']
+{
+  fig.align:right;
+  margin: 0.7rem;      /* this margin is totally up to you */
+    /* whatever else styles you fancy here */
+}
+
+
