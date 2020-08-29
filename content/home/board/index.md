@@ -24,6 +24,8 @@ Info About Lydia \
   \
   \
   \
+  
+
 
 
 ### Jason Coral
@@ -36,6 +38,8 @@ Info About Jason \
   \
   \
   \
+  
+
 
  
 
@@ -49,11 +53,13 @@ Info About Jess \
   \
   \
   \
+  
+
 
  
 
 ### Ramya Enganti
-{{< figure align="left" width="250" height="250" src="/home/board/member-images/ramya-enganti.jpg"  >}}
+{{< figure align="left" width="250" height="250" src="/home/board/member-images/ramya-enganti.jpg"#floatleft  >}}
 
 Info About Ramya \
   \
@@ -62,6 +68,7 @@ Info About Ramya \
   \
   \
   \
+  
 
  
 
@@ -75,7 +82,7 @@ Info About Meltem \
   \
   \
   \
-
+  
 
 
 ### Madhulika Rai
@@ -88,8 +95,7 @@ Info About Madhulika \
   \
   \
   \
-
- 
+   
 
 ### Stephanie Reeves
 {{< figure align="left" width="250" height="250" src="/home/board/member-images/stephanie-reeves.jpg#floatleft" >}}
@@ -101,7 +107,7 @@ Info About Stephanie \
   \
   \
   \
-
+  
  
 
 ## Should we list Katie in Board Members or in a separate category as in here?
@@ -116,11 +122,7 @@ Info About Katie \
   \
   \
   \
-
- 
-
-
-
+  
 
 Italics with _underscores_.
 
