@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Meet the Team"
-  url = "#people"
+  url = "board/#blank"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
