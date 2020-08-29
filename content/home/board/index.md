@@ -59,7 +59,7 @@ Info About Jess \
  
 
 ### Ramya Enganti
-{{< figure align="left" width="250" height="250" src="/home/board/member-images/ramya-enganti.jpg"#floatleft  >}}
+{{< figure align="left" width="250" height="250" src="/home/board/member-images/ramya-enganti.jpg#floatleft" >}}
 
 Info About Ramya \
   \
