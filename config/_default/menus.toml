@@ -25,12 +25,12 @@
 
 [[main]]
   name = "Meet the Team"
-  url = "board/#blank"
+  url = "board/"
   weight = 60
 
 [[main]]
   name = "Contact"
-  url = "contact/#blank"
+  url = "contact/"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
