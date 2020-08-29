@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Meet the Team"
-  url = "board/"
+  url = "#blank"
   weight = 60
 
 [[main]]
