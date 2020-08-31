@@ -56,6 +56,16 @@ Info About Ramya \
   \
   \
   \
+### Katie Kearns
+{{< figure align="left" width="200" height="200" src="/home/board/member-images/katie-kearns.jpg#floatleftCircle" >}}
+
+Info About Katie \
+  \
+  \
+  \
+  \
+  \
+  \
 ### Meltem Odabaş
 {{< figure align="left" width="200" height="200" src="/home/board/member-images/meltem-odabas.jpg#floatleftCircle"  >}}
 
@@ -84,18 +94,6 @@ Info About Madhulika \
 Info About Stephanie \
   \
   \
-  \
-  \
-  \
-  \
-  \
-  \
-## Should we list Katie in Board Members or in a separate category as in here?
-
-### Katie Kearns
-{{< figure align="left" width="200" height="200" src="/home/board/member-images/katie-kearns.jpg#floatleftCircle" >}}
-
-Info About Katie \
   \
   \
   \
